@@ -1,4 +1,4 @@
-# enum-abi-demo
+# test_anonymous_enum_ABI_compatibility
 
 Minimal examples showing how adding a **tag** to an anonymous `enum` affects ABI:
 
