@@ -17,7 +17,7 @@ Each subfolder has its own `Makefile`.
 
 ```sh
 cd 1-c-abi-stable && make clean && make run && cd ..
-cd 2-cpp-abi-break && make clean && make        && cd ..
+cd 2-cpp-abi-break && make clean && make && cd ..
 cd 3-c-or-cpp-safe-boundary && make clean && make run && cd ..
 ```
 
